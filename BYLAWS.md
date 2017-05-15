@@ -1,11 +1,7 @@
-<center>A by-law relating generally to the conduct of the affairs of</center>
+<p align="center">A by-law relating generally to the conduct of the affairs of</p>
 
-<p />
-
-<center>**Etcetera Labs, Inc.**</center>
-<center>(the "Corporation")</center>
-
-<p />
+<p align="center"><b>Etcetera Labs, Inc.</b></p>
+<p align="center">(the "Corporation")</p>
 
 **BE IT ENACTED** as a <span class="nowrap">by-law</span> of the Corporation as follows:
 
